@@ -1,4 +1,3 @@
-setwd("/Users/anandgautam/Desktop/topic_modeling")
 # Required packages
 library(tm)
 library(wordcloud)
